@@ -7,6 +7,7 @@ a curated list of awesome blog for developpers
 - [OdeToCode](https://odetocode.com/blogs/all)
 - [Scott Hanselman](https://www.hanselman.com/blog/)
 - [Matt Warren](http://mattwarren.org/)
+- [Jon Skeet](https://codeblog.jonskeet.uk/)
 
 ## Angular
 - [Angular Blog](https://blog.angular.io/)
