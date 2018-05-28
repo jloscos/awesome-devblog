@@ -8,6 +8,8 @@ a curated list of awesome blog for developpers
 - [Scott Hanselman](https://www.hanselman.com/blog/)
 - [Matt Warren](http://mattwarren.org/)
 - [Jon Skeet](https://codeblog.jonskeet.uk/)
+- [Julie Lerman](http://thedatafarm.com/blog/)
+- [Shawn Wildermuth](https://wildermuth.com/)
 
 ## Angular
 - [Angular Blog](https://blog.angular.io/)
